@@ -1,0 +1,14 @@
+C:\Users\abhimanyu.kumar\source\repos\EntityFrameworkLearning\EntityFramework.Data\bin\Debug\net6.0\EntityFramework.Data.deps.json
+C:\Users\abhimanyu.kumar\source\repos\EntityFrameworkLearning\EntityFramework.Data\bin\Debug\net6.0\EntityFramework.Data.runtimeconfig.json
+C:\Users\abhimanyu.kumar\source\repos\EntityFrameworkLearning\EntityFramework.Data\bin\Debug\net6.0\EntityFramework.Data.dll
+C:\Users\abhimanyu.kumar\source\repos\EntityFrameworkLearning\EntityFramework.Data\bin\Debug\net6.0\EntityFramework.Data.pdb
+C:\Users\abhimanyu.kumar\source\repos\EntityFrameworkLearning\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.csproj.AssemblyReference.cache
+C:\Users\abhimanyu.kumar\source\repos\EntityFrameworkLearning\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhimanyu.kumar\source\repos\EntityFrameworkLearning\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.AssemblyInfoInputs.cache
+C:\Users\abhimanyu.kumar\source\repos\EntityFrameworkLearning\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.AssemblyInfo.cs
+C:\Users\abhimanyu.kumar\source\repos\EntityFrameworkLearning\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.csproj.CoreCompileInputs.cache
+C:\Users\abhimanyu.kumar\source\repos\EntityFrameworkLearning\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.dll
+C:\Users\abhimanyu.kumar\source\repos\EntityFrameworkLearning\EntityFramework.Data\obj\Debug\net6.0\refint\EntityFramework.Data.dll
+C:\Users\abhimanyu.kumar\source\repos\EntityFrameworkLearning\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.pdb
+C:\Users\abhimanyu.kumar\source\repos\EntityFrameworkLearning\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.genruntimeconfig.cache
+C:\Users\abhimanyu.kumar\source\repos\EntityFrameworkLearning\EntityFramework.Data\obj\Debug\net6.0\ref\EntityFramework.Data.dll
